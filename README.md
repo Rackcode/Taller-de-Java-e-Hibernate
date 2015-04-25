@@ -1,7 +1,7 @@
 # Taller-de-Java-e-Hibernate - Rackcode by @Huixcospartan
 
 
-*Plataforma de Educacion Online [Rackcode](//rackcode.info) - Version 1.0*
+*Plataforma de Educacion Online [Rackcode](//rackcode.info)*
 
 ![logo](Portada.png)
 
